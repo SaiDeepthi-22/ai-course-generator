@@ -19,7 +19,7 @@ Syllabus · Lessons · Real-world & code examples · Quizzes · Assignments · A
 
 ##  About
 
-**CourseAI** is a full-stack Generative AI web application that turns any topic into a structured learning path. A learner enters *what* they want to learn, their *difficulty level*, and *how much time* they have. The app then generates a personalized syllabus, writes each lesson on demand, creates quizzes and assignments, answers doubts through a context-aware AI tutor, and tracks progress.
+**AI COURSE GENERATOR** is a full-stack Generative AI web application that turns any topic into a structured learning path. A learner enters *what* they want to learn, their *difficulty level*, and *how much time* they have. The app then generates a personalized syllabus, writes each lesson on demand, creates quizzes and assignments, answers doubts through a context-aware AI tutor, and tracks progress.
 
 This is a **working application, not a mockup**: every button calls a real backend endpoint, which calls a real LLM and stores real data in a database.
 
